@@ -1,0 +1,5 @@
+{
+  "name": "Neumorphic Weather",
+  "description": "A visually stunning neumorphic weather application that provides current weather conditions, as well as hourly and daily forecasts for any city, powered by AI.",
+  "requestFramePermissions": []
+}
